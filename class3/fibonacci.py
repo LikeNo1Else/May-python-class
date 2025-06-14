@@ -1,6 +1,7 @@
 # Fibo
 limit = int(input("Enter limit: "))
 
+
 first=0
 second=1
 print(first)
